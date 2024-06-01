@@ -1,0 +1,988 @@
+ Dungeon Crawl Stone Soup version 0.32-a0-1318-g632b080833 (webtiles) character file.
+
+croobank the Acrobat (Felid Berserker)             Turns: 46211, Time: 03:39:10
+
+Health: 37/162     AC: 35    Str: 27    XL:     21   Next: 40%
+Magic:  22/22      EV: 34    Int: 11    God:    Trog [*****.]
+Gold:   1612       SH:  5    Dex: 17    Spells: 20/20 levels left
+                                        Lives:  0   Deaths: 7
+
+rFire   . . .          - Unarmed
+rCold   + . .        (shield unavailable)
+rNeg    + . .        (body armour unavailable)
+rPois   ∞            (helmet unavailable)
+rElec   +            (cloak unavailable)
+rCorr   .            (gloves unavailable)
+SInv    +            (boots unavailable)
+Will    +++..        m - amulet of reflection
+Stlth   ++           n - +6 ring of strength
+HPRegen 0.47/turn    B - ring of flight
+MPRegen 0.18/turn
+
+%: reflection
+@: mighty, statue-form, flying, hasted, quick
+A: powerful, torment resistance 1, boosted hp, poison immunity, statue negative
+energy resistance, electricity resistance, slow, very small, claws 1, fangs 3,
+see invisible, (shaggy fur 3), stealthy paws, no weapons or thrown items, no
+armour, multi-lived, cold resistance 1, dopey 1
+}: 2/15 runes: serpentine, barnacled
+a: Begin Untransformation, Renounce Religion, Berserk, Trog's Hand, Brothers in
+Arms
+
+
+You are in a wizard's laboratory.
+You worship Trog.
+Trog is extremely pleased with you.
+You are a living statue of rough stone.
+
+You have visited 8 branches of the dungeon, and seen 37 of its levels.
+You have visited the Abyss 1 time.
+You have also visited: Wizlab.
+
+You have collected 4751 gold pieces.
+You have spent 3139 gold pieces at shops.
+
+Inventory:
+
+Jewellery
+ f - a ring of protection from cold
+ m - an amulet of reflection (around neck)
+ n - a +6 ring of strength (left paw)
+ s - a ring of ice
+ z - an amulet of regeneration
+ B - a ring of flight (right paw)
+ D - a ring of protection from cold
+ H - a ring of fire
+ K - a +6 ring of dexterity
+ L - a +6 ring of intelligence
+ R - a ring of protection from cold
+ U - the ring "Betoigua" {rF- AC+4 Str+5 Slay+6}
+   (You took it off a deep elf high priest on level 3 of the Elven Halls)   
+   
+   [ring of protection]
+   
+   AC+4:       It affects your AC (+4).
+   Str+5:      It affects your strength (+5).
+   Slay+6:     It affects your accuracy & damage with ranged weapons and melee
+   (+6).
+   rF-:        It makes you vulnerable to fire.
+ W - a +6 ring of dexterity
+ X - a +5 ring of evasion
+ Y - a ring of willpower
+ Z - a +4 ring of protection
+Talismans
+ a - a flux talisman
+ u - a serpent talisman
+ C - a granite talisman (active)
+ N - the serpent talisman of Zanwasun {rF- rN+++ Will- SInv}
+   (You took it off Aizul on level 1 of the Snake Pit)   
+   
+   [serpent talisman]
+   
+   rF-:        It makes you vulnerable to fire.
+   rN+++:      It renders you almost immune to negative energy.
+   Will-:      It decreases your willpower.
+   SInv:       It lets you see invisible.
+ O - a dragon-blood talisman
+ V - a storm talisman
+Wands
+ c - a wand of flame (74)
+ d - a wand of digging (26)
+ t - a wand of paralysis (36)
+ v - a wand of acid (17)
+ y - a wand of iceblast (40)
+ A - a wand of mindburst (5)
+ E - a wand of polymorph (18)
+Scrolls
+ e - 7 scrolls of revelation
+ i - 7 scrolls of teleportation
+ j - a scroll of fear
+ q - a scroll of vulnerability
+ w - 5 scrolls of noise
+ x - 3 scrolls of torment
+ F - 3 scrolls of fog
+ G - 5 scrolls of poison
+ I - a scroll of silence
+Potions
+ b - 4 potions of ambrosia
+ g - 20 potions of curing
+ h - 7 potions of might
+ k - 4 potions of lignification
+ o - 9 potions of enlightenment
+ p - 4 potions of mutation
+ r - a potion of heal wounds
+ M - 4 potions of attraction
+ P - 2 potions of berserk rage
+ Q - 3 potions of resistance
+Miscellaneous
+ S - a phantom mirror (inert)
+ T - a tin of tremorstones (2/2)
+
+
+   Skills:
+ + Level 18.9 Fighting
+ + Level 23.7 Dodging
+ + Level 18.9 Unarmed Combat
+ * Level 22.6 Shapeshifting
+
+
+You have 20 spell levels left.
+You don't know any spells.
+Your spell library is empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (1/1) D:4            Lair (5/5) D:10        
+ Shoals (4/4) Lair:3        Snake (4/4) Lair:3        Slime (0/5) Lair:5      
+    Orc (2/2) D:9             Elf (3/3) Orc:2        Vaults (3/5) D:13        
+  Crypt (0/3) Vaults:3     Depths (0/4) D:15         WizLab (1/1)             
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+
+Shops:
+D:7 :   D:9 ([   D:13 :   Orc:2 **(::   Elf:1 ?   Elf:2 [=::   Elf:3 !
+Snake:2 [:*   Vaults:1 (
+
+Portals:
+Trove: Vaults:2 (give 11 potions of heal wounds)
+
+Annotations:
+Lair:1 2 transporters
+Lair:3 2 transporters, Omai's ghost, adept FoDe
+Lair:5 exclusion: 3 oklob plants
+WizLab exclusion: strange machine
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are a living statue of rough stone.
+Your melee attacks are powerful.
+You are resistant to unholy torment.
+Your maximum health is greatly increased.
+You are immune to poison.
+Your stone body resists negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+All of your actions are slow.
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+((Your thick and shaggy fur keeps you warm. (AC +3, rC+)))
+Your paws help you pounce on unaware monsters.
+You are incapable of wielding weapons or throwing items.
+You cannot wear armour.
+You gain extra lives every three experience levels.
+Your flesh is cold resistant. (rC+)
+You are dopey. (Int -2)
+
+Message History
+
+The rakshasa completely misses you.
+Your deep troll goes berserk!
+The +2 short sword of distortion completely misses you.
+Croobank's illusion completely misses you.
+The +2 flail of draining hits you but does no damage.
+The +2 short sword of distortion completely misses you.
+Croobank's illusion hits you!!!
+* * * LOW HITPOINT WARNING * * *
+The rakshasa barely misses you.
+What are your orders?
+ t - Meow!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+Gang up on whom?
+Press: ? - help, Dir - move target, f - +3 vampiric broad axe
+Aim: a +3 vampiric broad axe (summoned)
+Okay, then.
+Unknown command.
+Press: ? - help, v - describe, . - travel
+Here: croobank's illusion (severely damaged, fast, strong)
+The floor.
+Unknown command.
+Attack: -) Stone paws
+Press: ? - help, Dir - move target, f - +2 flail of draining
+Aim: a +2 flail of draining (summoned, ally target, about 39% to evade your
+paws)
+Okay, then.
+Okay, then.
+Unknown command.
+Saving game... please wait.
+Level annotation: exclusion: strange machine
+Welcome back, croobank the Felid Berserker.
+Trog says: Kill them all!
+Press ? for a list of commands and other information.
+Press: ? - help, v - describe, . - travel
+The floor.
+Unknown command.
+Okay, then.
+Saving game... please wait.
+
+  ##...###.....##
+  ##...###.....##
+  ##...###.[⌠..##
+  ##...###[....##
+  ##...###.....##  .
+  ##...###.....###..
+  ##...#..).[....#..
+   ##.....##.##.....
+    #++####.I.####++
+   ##..###((@(.##  .
+  ##...###..R.T##
+  ##..####.....##
+ ##...#####.I.###
+##..⌠..# ###.###
+#.....#   #...#
+          .....
+
+
+You can see a strange machine, a rakshasa (summoned), 3 dancing weapons,
+croobank's illusion (fast, strong) and a friendly deep troll (summoned,
+berserk).
+
+Vanquished Creatures
+  Frederick (Vaults:2)
+  Bai Suzhen (Shoals:3)
+  Nikola (Shoals:3)
+  A profane servitor (Abyss:4)
+  Rupert (Orc:2)
+  Wiglaf (Snake:3)
+  2 tentacled monstrosities (Abyss:4)
+  Mlioglotl (Snake:2)
+  Jorgrun (D:14)
+  Asterion (Vaults:2)
+  2 deep elf blademasters (Elf:3)
+  The ghost of Pooter the Warrior, an adept MiBe of Trog (Elf:2)
+  4 deep elf master archers (Elf:3)
+  6 tentacled starspawn
+  Frances (Shoals:1)
+  Kirke (Lair:5)
+  Gastronok (D:8)
+  Aizul (Snake:1)
+  A daeva (Abyss:4)
+  A storm dragon (Shoals:4)
+  7 nagarajas
+  Ilsuiw (Shoals:3)
+  A vault warden (Vaults:2)
+  Louise (D:14)
+  A deep elf elementalist (Elf:3)
+  6 deep elf sorcerers
+  A draconian scorcher (Abyss:4)
+  2 angels (Abyss:4)
+  3 orc warlords (Vaults:2)
+  6 ironbound preservers
+  2 ironbound thunderhulks (Vaults:1)
+  10 deep elf death magi
+  Nessos (D:12)
+  A war gargoyle (Vaults:1)
+  11 dire elephants
+  6 deep elf demonologists
+  5 deep elf annihilators
+  An entropy weaver (shapeshifter) (D:15)
+  2 ettins
+  6 merfolk javelineers
+  7 merfolk impalers
+  4 deep elf high priests (Elf:3)
+  3 yaktaur captains
+  A servant of whispers (Vaults:2)
+  3 vault guards (D:13)
+  3 hydras
+  3 great orbs of eyes (Vaults:2)
+  4 rakshasas (WizLab)
+  3 salamander tyrants
+  2 peacekeepers (Vaults:1)
+  8 anacondas
+  2 merfolk avatars
+  4 boulder beetles
+  An ogre mage (D:15)
+  13 centaur warriors
+  3 merfolk aquamancers (Shoals:4)
+  6 two-headed ogres
+  3 catoblepae
+  22 dancing weapons
+  9 ironbound frosthearts
+  6 death yaks
+  2 satyrs
+  A tengu warrior (D:14)
+  5 orc high priests
+  Urug (Lair:1)
+  9 naga warriors
+  Nergalle (D:12)
+  9 naga sharpshooters
+  10 shock serpents
+  16 deep elf knights
+  An occultist (D:15)
+  Amaemon (Lair:1)
+  5 skysharks
+  A wretched star (Abyss:4)
+  A spatial maelstrom (Abyss:4)
+  6 deep elf archers
+  4 skeletal warriors
+  2 salamander mystics
+  A sixfirhy (Abyss:4)
+  2 arcanists (Vaults:2)
+  5 mana vipers
+  26 sea snakes
+  9 large abominations
+  A golden dragon zombie (Vaults:2)
+  2 naga ritualists
+  14 harpies
+  10 lindwurms
+  A thermic dynamo (Elf:3)
+  16 deep trolls
+  19 deep elf zephyrmancers
+  2 necromancers
+  6 ironbound convokers
+  2 harpies (shapeshifter)
+  9 orc knights
+  29 deep elf pyromancers
+  A wolf spider (D:15)
+  A tengu skeleton (Vaults:2)
+  An oklob plant (Lair:4)
+  13 ugly things
+  13 salamanders
+  5 orc sorcerers
+  A faun (shapeshifter) (D:15)
+  A worldbinder (Abyss:4)
+  6 fauns
+  5 cyclopes
+  6 elephants (Lair:2)
+  8 manticores
+  6 vault sentinels
+  12 merfolk sirens
+  2 kobold blastminers (Orc:2)
+  21 black mambas
+  8 water nymphs
+  5 guardian serpents
+  Maurice (D:12)
+  3 meliai (D:14)
+  12 cane toads
+  13 naga magi
+  4 gargoyles (D:13)
+  A torpor snail (Lair:5)
+  2 smoke demons (Abyss:4)
+  7 rime drakes
+  2 unseen horrors
+  5 komodo dragons
+  A kobold demonologist (D:11)
+  11 yaktaurs
+  An anaconda simulacrum (Abyss:4)
+  3 efreet
+  A tengu conjurer (D:14)
+  3 ancient zymes (Abyss:4)
+  A silent spectre (Abyss:4)
+  10 wind drakes
+  7 trolls
+  32 merfolk
+  8 polar bears
+  6 hornets
+  Grinder (D:4)
+  3 saltlings (Vaults:2)
+  8 dream sheep
+  13 blink frogs
+  A stone giant simulacrum (Vaults:2)
+  25 slime creatures
+  12 snapping turtles
+  2 shadows (D:12)
+  8 air elementals
+  A centaur simulacrum (D:15)
+  14 spriggans (Lair:5)
+  36 water elementals
+  A ynoxinul (Abyss:4)
+  31 yaks
+  2 fire elementals (Elf:2)
+  A vampire (D:13)
+  3 wraiths (D:12)
+  12 vampire mosquitoes
+  10 wyverns
+  7 humans
+  4 basilisks
+  2 hogs (Lair:5)
+  3 steam dragons
+  2 wargs (Orc:1)
+  4 redbacks
+  Edmund (D:6)
+  3 chaos spawn (Abyss:4)
+  4 small abominations (Abyss:4)
+  21 water moccasins
+  2 acid dragons
+  A hell hound (D:15)
+  Duvessa (D:4)
+  37 nagas
+  2 sky beasts
+  An ice beast (D:6)
+  11 orc warriors
+  15 black bears
+  2 laughing skulls
+  26 wolves
+  3 boggarts (Lair:5)
+  9 centaurs
+  8 ogres
+  2 phantoms (D:7)
+  A weeping skull (Abyss:4)
+  A kobold brigand (D:9)
+  An elf zombie (Elf:1)
+  2 brain worms (Abyss:4)
+  8 bullfrogs
+  2 scorpions
+  An earth elemental (Elf:3)
+  2 marrowcudas
+  4 wights (D:4)
+  Dowan (D:4)
+  4 killer bees (D:9)
+  2 electric eels (Snake:3)
+  2 howler monkeys
+  4 crimson imps (D:9)
+  9 hounds
+  A bombardier beetle (D:3)
+  Crazy Yiuf (D:3)
+  8 orc priests
+  A jelly (D:6)
+  A sleepcap (D:3)
+  11 starcursed masses (Abyss:4)
+  2 iguanas (D:5)
+  A scorpion zombie (D:3)
+  4 yak simulacra (Lair:4)
+  18 orc wizards
+  7 hell rats
+  3 wolf simulacra (Lair:4)
+  3 polar bear simulacra (Lair:4)
+  A hound zombie (D:3)
+  A howler monkey zombie (D:3)
+  7 gnolls
+  8 adders
+  A shadow imp (D:6)
+  A white imp (D:7)
+  5 ufetubi
+  3 dart slugs (D:1)
+  2 ribbon worms
+  39 orcs
+  6 ball pythons
+  6 bats
+  12 endoplasms
+  5 giant cockroaches
+  6 goblins
+  6 hobgoblins
+  8 quokkas
+  A ball python zombie (D:3)
+  13 kobolds
+  4 rats
+  A river rat simulacrum (Lair:4)
+  5 starspawn tentacles (Abyss:4)
+1293 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A lich (Abyss:4)
+  A walking divine tome (WizLab)
+  Polyphemus (Shoals:3)
+  Roxanne (D:14)
+  2 nagarajas (Snake:4)
+  An orc warlord (Vaults:2)
+  An ironbound thunderhulk (Vaults:1)
+  3 dire elephants (Vaults:2)
+  Azrael (D:15)
+  An entropy weaver (Vaults:1)
+  3 merfolk impalers
+  A yaktaur captain (Vaults:1)
+  3 great orbs of eyes (Vaults:1)
+  A merfolk avatar (Shoals:3)
+  A hydra (D:15)
+  The ghost of kairosrom117 the Arsonist, a journeyman DrFE of Vehumet (D:10)
+  A rakshasa (WizLab)
+  A catoblepas (Shoals:3)
+  An alligator snapping turtle (Shoals:4)
+  A centaur warrior (D:15)
+  A salamander tyrant (Snake:2)
+  3 dancing weapons (Elf:2)
+  An ironbound frostheart (Vaults:1)
+  A death yak (Shoals:3)
+  2 merfolk aquamancers
+  A shock serpent (Snake:4)
+  2 deep elf knights (Elf:1)
+  A naga sharpshooter (Snake:4)
+  A thrashing horror (Abyss:4)
+  A sun demon (Abyss:4)
+  2 deep elf archers (Elf:1)
+  A wretched star (Abyss:4)
+  4 deep trolls
+  A large abomination (Abyss:4)
+  A sea snake (Snake:4)
+  A glowing orange brain (D:10)
+  A mana viper (Snake:2)
+  An ironbound convoker (Vaults:2)
+  A naga ritualist (Snake:2)
+  A slime creature (D:10)
+  3 necromancers (Elf:1)
+  5 orc knights (Vaults:2)
+  3 deep elf zephyrmancers
+  An ugly thing (Vaults:2)
+  2 deep elf pyromancers
+  3 fauns
+  An oklob plant (D:7)
+  2 manticores
+  A vault sentinel (Vaults:1)
+  2 black mambas (Snake:2)
+  2 guardian serpents (Snake:4)
+  An orange demon (Abyss:4)
+  A water nymph (Shoals:4)
+  A komodo dragon (Lair:5)
+  2 yaktaurs (Vaults:1)
+  A hellion (Abyss:4)
+  Psyche (D:8)
+  7 merfolk
+  2 hornets (Lair:5)
+  A raiju (Abyss:4)
+  A wind drake (Shoals:4)
+  5 dream sheep
+  An air elemental (Elf:2)
+  3 water elementals
+  2 yaks (Lair:5)
+  A wraith (Abyss:4)
+  4 fire elementals (D:15)
+  2 hogs (Lair:5)
+  2 golden eyes (Abyss:4)
+  A neqoxec (Abyss:4)
+  A basilisk (Lair:4)
+  A chaos spawn (Abyss:4)
+  An acid dragon (D:12)
+  6 nagas
+  A small abomination (Abyss:4)
+  A spatial vortex (Abyss:4)
+  3 hell hounds (D:15)
+  2 water moccasins
+  2 laughing skulls (Abyss:4)
+  3 wolves (Lair:5)
+  10 starcursed masses (Abyss:4)
+  An elf zombie (Elf:1)
+  A bullfrog (Lair:4)
+  A brain worm (Abyss:4)
+  2 killer bees (D:9)
+  2 jellies (D:10)
+  A hell rat (Lair:4)
+  A starspawn tentacle (Snake:2)
+159 creatures vanquished.
+
+Vanquished Creatures (others)
+  A hellfire mortar (Snake:4)
+  A harpy (Shoals:1)
+  A fire bat (Abyss:4)
+  An orc wizard (Orc:2)
+  2 foxfires (D:10)
+  18 starspawn tentacles
+24 creatures vanquished.
+
+Grand Total: 1476 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | croobank the Felid Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+   122 | D:1      | Reached XP level 2. HP: 16/16 MP: 3/3
+   441 | D:1      | Reached ** piety under Trog
+   445 | D:1      | Reached XP level 3. HP: 20/20 MP: 4/4
+   926 | D:2      | Identified the +2 pair of gloves of the Mackerel {Int+3}
+   940 | D:2      | Reached skill level 5 in Dodging
+   940 | D:2      | Reached XP level 4. HP: 18/25 MP: 5/5
+   940 | D:2      | Gained a life (2 lives remaining)
+  1525 | D:3      | Found a bloodstained altar of Trog.
+  1582 | D:3      | Reached XP level 5. HP: 29/29 MP: 6/6
+  1586 | D:3      | Reached *** piety under Trog
+  1876 | D:3      | Found a faded altar of an unknown god.
+  2046 | D:3      | Found a basalt altar of Yredelemnul.
+  2283 | D:3      | Found a runed translucent door.
+  2284 | D:3      | Noticed Crazy Yiuf
+  2293 | D:3      | Killed Crazy Yiuf
+  2294 | D:3      | Reached skill level 6 in Dodging
+  2413 | D:4      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+  2413 | D:4      | Reached XP level 6. HP: 30/34 MP: 7/7
+  2450 | D:4      | Found a staircase to the Ecumenical Temple.
+  2461 | Temple   | Entered the Ecumenical Temple
+  2592 | D:4      | Noticed Dowan
+  2592 | D:4      | Noticed Duvessa
+  2601 | D:4      | Killed Dowan
+  2602 | D:4      | Reached skill level 5 in Fighting
+  2607 | D:4      | Killed Duvessa
+  2608 | D:4      | Reached skill level 5 in Unarmed Combat
+  2611 | D:4      | Reached XP level 7. HP: 29/39 MP: 8/8
+  2736 | D:4      | Reached skill level 7 in Dodging
+  3077 | D:4      | Noticed Grinder
+  3091 | D:4      | Killed Grinder
+  3407 | D:4      | Reached skill level 8 in Dodging
+  3416 | D:4      | Reached XP level 8. HP: 31/44 MP: 9/9
+  3499 | D:4      | Found a hide-covered altar of Uskayaw.
+  3506 | D:4      | Reached **** piety under Trog
+  3717 | D:5      | Entered Level 5 of the Dungeon
+  4020 | D:5      | Slain by an ogre
+  4020 | D:5      | Lost a life (1 life remaining)
+  4864 | D:6      | Noticed Edmund
+  4881 | D:6      | Killed Edmund
+  4882 | D:6      | Reached XP level 9. HP: 12/49 MP: 0/10
+  4882 | D:6      | Gained a life (2 lives remaining)
+  4884 | D:6      | Reached skill level 5 in Shapeshifting
+  5551 | D:6      | You fall into a shaft and drop 3 floors!
+  5818 | D:7      | Found a snail-covered altar of Cheibriados.
+  6072 | D:7      | Found a shadowy altar of Dithmenos.
+  6133 | D:7      | Found a blossoming altar of Fedhas.
+  6155 | D:7      | Noticed an oklob plant
+  6238 | D:7      | Found Sodenurch's Self-Improvement Boutique.
+  6275 | D:7      | Found a sacrificial altar of Ru.
+  6485 | D:7      | Reached ***** piety under Trog
+  7190 | D:8      | Noticed Psyche
+  7201 | D:8      | Killed Psyche
+  7315 | D:8      | Found a hazy altar of Hepliaklqana.
+  7418 | D:8      | Noticed Gastronok
+  7443 | D:8      | Killed from afar by Gastronok
+  7443 | D:8      | Lost a life (1 life remaining)
+  7500 | D:8      | Found a radiant altar of Vehumet.
+  7876 | D:9      | Found a shimmering altar of Xom.
+  7935 | D:9      | Reached XP level 10. HP: 53/53 MP: 11/11
+  7935 | D:9      | Gained a life (2 lives remaining)
+  8630 | D:9      | Reached skill level 9 in Dodging
+  8887 | D:9      | Found a staircase to the Orcish Mines.
+  8887 | D:9      | Found Ixeora Imeu's Armour Boutique.
+  8887 | D:9      | Found Vuorek's Weapon Boutique.
+  9481 | D:9      | Reached skill level 10 in Dodging
+  9647 | D:9      | Found an iron altar of Okawaru.
+ 10080 | D:10     | Entered Level 10 of the Dungeon
+ 10310 | D:10     | Found an ancient bone altar of Kikubaaqudgha.
+ 10392 | D:9      | Slain by a vampire mosquito
+ 10392 | D:9      | Lost a life (1 life remaining)
+ 10744 | D:10     | Reached XP level 11. HP: 60/60 MP: 12/12
+ 10889 | D:10     | Found an ornate altar of the Wu Jian Council.
+ 10934 | D:10     | Found a staircase to the Lair.
+ 10971 | D:10     | Found a runed translucent gate.
+ 10971 | D:10     | Found a runed translucent gate.
+ 10971 | D:10     | Found a runed translucent gate.
+ 10972 | D:10     | Found a viscous altar of Jiyva.
+ 10972 | D:10     | Noticed a glowing orange brain
+ 10972 | D:10     | Noticed kairosrom117's ghost (journeyman DrFE)
+ 11816 | D:11     | Found a shimmering altar of Xom.
+ 12087 | D:11     | Reached skill level 11 in Dodging
+ 12355 | D:11     | Found a burning altar of Makhleb.
+ 12355 | D:11     | Noticed a skeletal warrior
+ 12368 | D:11     | Killed a skeletal warrior
+ 12631 | D:12     | Noticed a deep elf pyromancer
+ 12790 | D:12     | Killed a deep elf pyromancer
+ 12865 | D:12     | Noticed Maurice
+ 12871 | D:12     | Killed Maurice
+ 12898 | D:12     | Reached skill level 10 in Shapeshifting
+ 12915 | D:12     | Noticed a two-headed ogre
+ 12921 | D:12     | Killed a two-headed ogre
+ 13330 | D:12     | Noticed Nessos
+ 13339 | D:12     | Killed Nessos
+ 13340 | D:12     | Reached skill level 12 in Dodging
+ 13510 | D:12     | Noticed a brown ugly thing
+ 13518 | D:12     | Killed a brown ugly thing
+ 13716 | D:12     | Noticed a deep elf pyromancer
+ 13716 | D:12     | Noticed Nergalle
+ 13847 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 13851 | Lair:1   | Gained mutation: Your thick and shaggy fur keeps you warm.
+                  | (AC +3, rC+) [Felid growth]
+ 13851 | Lair:1   | Reached XP level 12. HP: 67/67 MP: 13/13
+ 13964 | Lair:1   | Found a transporter.
+ 13965 | Lair:1   | Found the +0 pair of fencer's gloves {Riposte Dex+3}
+ 13997 | Lair:1   | Found a transporter.
+ 14245 | Lair:1   | Noticed Urug
+ 14252 | Lair:1   | HP: 2/80 [Urug/+2 scimitar of holy wrath (31)]
+ 14253 | Lair:1   | Killed Urug
+ 14865 | Lair:2   | Reached skill level 10 in Fighting
+ 14880 | Lair:2   | Reached skill level 10 in Unarmed Combat
+ 14936 | Lair:2   | Reached skill level 13 in Dodging
+ 15293 | Lair:2   | Noticed a catoblepas
+ 15304 | Lair:2   | Killed a catoblepas
+ 15859 | Lair:3   | Found a staircase to the Shoals.
+ 16214 | Lair:3   | Noticed a catoblepas
+ 16223 | Lair:3   | Killed a catoblepas
+ 16271 | Lair:3   | Found a transporter.
+ 16273 | Lair:3   | Found a transporter.
+ 16284 | Lair:3   | Found a bloodstained altar of Trog.
+ 16290 | Lair:3   | Noticed Omai's ghost (adept FoDe)
+ 16351 | Lair:3   | Reached XP level 13. HP: 73/73 MP: 14/14
+ 16351 | Lair:3   | Gained a life (2 lives remaining)
+ 16360 | Lair:3   | Found a staircase to the Snake Pit.
+ 16709 | Lair:3   | Reached skill level 14 in Dodging
+ 17686 | Lair:4   | You fall into a shaft and drop 1 floor!
+ 17686 | Lair:5   | Entered Level 5 of the Lair of Beasts
+ 18024 | Lair:5   | Reached skill level 15 in Dodging
+ 18101 | Lair:5   | Reached ****** piety under Trog
+ 18156 | Lair:5   | Noticed Kirke
+ 18265 | Lair:5   | Killed Kirke
+ 18266 | Lair:5   | Reached XP level 14. HP: 61/80 MP: 15/15
+ 18429 | Lair:5   | Found a staircase to the Slime Pits.
+ 18848 | Lair:5   | Reached skill level 16 in Dodging
+ 19270 | Lair:5   | Found a viscous altar of Jiyva.
+ 19299 | Lair:5   | Identified a scroll of acquirement
+ 19300 | Lair:5   | Acquired a manual of Shapeshifting
+ 19481 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 19814 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 19933 | Orc:2    | Found Etusipup's General Store.
+ 20070 | Orc:2    | Bought a potion of enlightenment for 65 gold pieces
+ 20070 | Orc:2    | Bought a wand of paralysis (7) for 218 gold pieces
+ 20070 | Orc:2    | Bought a potion of might for 52 gold pieces
+ 20075 | Orc:2    | Found a staircase to the Elven Halls.
+ 20243 | Orc:2    | Noticed Rupert
+ 20368 | Orc:2    | Found Uwous's Book Shop.
+ 20401 | Orc:2    | Slain by an orc knight
+ 20401 | Orc:2    | Lost a life (1 life remaining)
+ 20528 | Orc:2    | Found Yfutost's General Store.
+ 20529 | Orc:2    | Found Apsaox's Book Shoppe.
+ 20529 | Orc:2    | Found Muguale's Weapon Shoppe.
+ 20562 | Orc:2    | Bought a potion of curing for 36 gold pieces
+ 20562 | Orc:2    | Bought a potion of haste for 120 gold pieces
+ 20778 | D:12     | Killed Nergalle
+ 21276 | D:13     | Found Ubeokkyo's Tiny Tomes.
+ 21808 | D:13     | Reached skill level 17 in Dodging
+ 21856 | D:13     | Found a gate to the Vaults.
+ 21861 | D:13     | Reached XP level 15. HP: 86/86 MP: 16/16
+ 22608 | D:14     | Noticed Jorgrun
+ 22621 | D:14     | Killed Jorgrun
+ 23211 | D:14     | Noticed Roxanne
+ 23218 | D:14     | Noticed Louise
+ 23222 | D:14     | Killed Roxanne
+ 23259 | D:14     | Killed Louise
+ 23411 | D:15     | Entered Level 15 of the Dungeon
+ 23662 | D:15     | Noticed Azrael
+ 23670 | D:15     | Killed Azrael
+ 23835 | D:15     | Found a staircase to the Depths.
+ 23954 | D:15     | Reached skill level 18 in Dodging
+ 23983 | D:15     | Found a glowing golden altar of the Shining One.
+ 24687 | Snake:1  | Entered Level 1 of the Snake Pit
+ 25028 | Snake:1  | Identified the serpent talisman of Zanwasun {rF- rN+++
+                  | Will- SInv}
+ 25028 | Snake:1  | Noticed Aizul
+ 25067 | Snake:1  | Killed Aizul
+ 25164 | Snake:1  | Reached skill level 15 in Shapeshifting
+ 25688 | Snake:2  | Reached XP level 16. HP: 93/93 MP: 17/17
+ 25688 | Snake:2  | Gained a life (2 lives remaining)
+ 25714 | Snake:2  | Killed from afar by a salamander tyrant
+ 25714 | Snake:2  | Lost a life (1 life remaining)
+ 25760 | Snake:2  | Noticed Mlioglotl
+ 25762 | Snake:2  | Noticed a tentacled starspawn
+ 25766 | Snake:2  | Noticed a tentacled starspawn
+ 25770 | Snake:2  | Killed Mlioglotl
+ 25803 | Snake:2  | Found Uriliono's Armour Shoppe.
+ 25937 | Snake:2  | Found Fiameqan's Assorted Antiques.
+ 25954 | Snake:2  | Bought a scroll of blinking for 232 gold pieces
+ 25954 | Snake:2  | Bought a scroll of revelation for 232 gold pieces
+ 25954 | Snake:2  | Bought a wand of acid (5) for 651 gold pieces
+ 25954 | Snake:2  | Bought a scroll of revelation for 232 gold pieces
+ 25961 | Snake:2  | Found Coliax's Book Boutique.
+ 26916 | Snake:4  | Entered Level 4 of the Snake Pit
+ 26917 | Snake:4  | Identified the +4 hat "Dysi" {+Blink rElec rF- Int+3}
+ 26917 | Snake:4  | Noticed Wiglaf
+ 26932 | Snake:3  | Killed Wiglaf
+ 27316 | Snake:4  | Reached skill level 15 in Fighting
+ 27316 | Snake:4  | Reached skill level 19 in Dodging
+ 27376 | Snake:3  | Reached skill level 15 in Unarmed Combat
+ 28415 | Snake:4  | Reached XP level 17. HP: 38/99 MP: 18/18
+ 29506 | Snake:4  | Got a serpentine rune of Zot
+ 29742 | Lair:1   | Noticed Amaemon
+ 29747 | Lair:1   | Killed Amaemon
+ 29880 | D:8      | Killed Gastronok
+ 30523 | D:10     | Killed kairosrom117's ghost
+ 30663 | Orc:2    | Killed Rupert
+ 30714 | Elf:1    | Entered Level 1 of the Elven Halls
+ 30715 | Elf:1    | Paralysed by an air elemental for 1 turns
+ 30971 | Elf:1    | Found a radiant altar of Vehumet.
+ 31055 | Elf:1    | Paralysed by an air elemental for 1 turns
+ 31211 | Elf:1    | Reached skill level 20 in Dodging
+ 31906 | Elf:1    | Found Asaforab's Magic Scroll Emporium.
+ 31914 | Elf:1    | Bought a scroll of blinking for 105 gold pieces
+ 31914 | Elf:1    | Bought a scroll of acquirement for 728 gold pieces
+ 31914 | Elf:1    | Acquired a manual of Shapeshifting
+ 31962 | Elf:2    | Identified the +0 scale mail of the Rhinotaur {Int+3 Dex+5}
+ 31972 | Abyss:3  | Cast into level 3 of the Abyss (a deep elf demonologist)
+ 32007 | Abyss:3  | Found a corrupted altar of Lugonu.
+ 32057 | Abyss:4  | Found a corrupted altar of Lugonu.
+ 32234 | Abyss:4  | Noticed a tentacled monstrosity
+ 32242 | Abyss:4  | Killed a tentacled monstrosity
+ 32315 | Abyss:4  | Reached XP level 18. HP: 105/105 MP: 19/19
+ 32336 | Abyss:4  | Noticed a lich
+ 32345 | Abyss:4  | Killed a lich
+ 32375 | Abyss:4  | Found a corrupted altar of Lugonu.
+ 32377 | Abyss:4  | Found a corrupted altar of Lugonu.
+ 32397 | Abyss:4  | Noticed a profane servitor
+ 32413 | Abyss:4  | Killed a profane servitor
+ 32457 | Abyss:4  | Noticed a tentacled monstrosity
+ 32468 | Abyss:4  | Gained mutation: You are dopey. (Int -2) [a neqoxec]
+ 32484 | Abyss:4  | Killed a tentacled monstrosity
+ 32487 | Abyss:4  | Gained mutation: Your flesh is cold resistant. (rC+) [a
+                  | neqoxec]
+ 32568 | Elf:2    | Escaped the Abyss
+ 32674 | Elf:2    | Found Osuicidu's Armour Shop.
+ 32771 | Elf:2    | Identified the +3 mace of Zeorcheu {heavy, rPois rF+}
+ 32845 | Elf:2    | Found a runed translucent gate.
+ 32845 | Elf:2    | Found a runed translucent gate.
+ 32894 | Elf:2    | Found a runed translucent gate.
+ 33021 | Elf:2    | Found Huluh's Book Emporium.
+ 33022 | Elf:2    | Found Nuhid's Jewellery Shop.
+ 33023 | Elf:2    | Found Rext's Book Emporium.
+ 33239 | Shoals:1 | Entered Level 1 of the Shoals
+ 33275 | Shoals:1 | Reached skill level 21 in Dodging
+ 33791 | Shoals:1 | Noticed Frances
+ 33799 | Shoals:1 | Killed Frances
+ 34773 | Shoals:2 | Found a runed translucent door.
+ 35239 | Shoals:3 | Noticed Ilsuiw
+ 35270 | Shoals:3 | Killed Ilsuiw
+ 35342 | Shoals:3 | Noticed Polyphemus
+ 35352 | Shoals:3 | Killed Polyphemus
+ 35443 | Shoals:3 | Reached XP level 19. HP: 112/112 MP: 20/20
+ 35443 | Shoals:3 | Gained a life (2 lives remaining)
+ 35713 | Shoals:3 | Noticed Bai Suzhen
+ 35723 | Shoals:3 | Killed Bai Suzhen
+ 35761 | Shoals:3 | Noticed Nikola
+ 35777 | Shoals:3 | Killed Nikola
+ 36060 | Shoals:4 | Entered Level 4 of the Shoals
+ 36519 | Shoals:4 | Paralysed by an air elemental for 1 turns
+ 36522 | Shoals:4 | Paralysed by an air elemental for 1 turns
+ 36647 | Shoals:4 | Found a blossoming altar of Fedhas.
+ 36907 | Shoals:4 | Paralysed by an air elemental for 1 turns
+ 37063 | Shoals:4 | Reached skill level 22 in Dodging
+ 37213 | Shoals:4 | Identified the staff "Vofuy" {rF+ Str+2 SInv Tloc Fire}
+ 37215 | Shoals:4 | Got a barnacled rune of Zot
+ 37439 | Shoals:4 | Upgraded the game from 0.32-a0-1316-gbd61dd866b to
+                  | 0.32-a0-1317-g426ccd8811
+ 37753 | Elf:2    | Paralysed by an air elemental for 1 turns
+ 37834 | Elf:2    | Found a runed translucent gate.
+ 37834 | Elf:2    | Found a runed translucent gate.
+ 37834 | Elf:2    | Found a runed translucent gate.
+ 37842 | Elf:2    | Noticed Pooter's ghost (adept MiBe)
+ 37856 | Elf:2    | Killed Pooter's ghost
+ 38730 | Elf:3    | Entered Level 3 of the Elven Halls
+ 39192 | Elf:3    | Reached XP level 20. HP: 55/119 MP: 21/21
+ 39203 | Elf:3    | Killed from afar by a neqoxec
+ 39203 | Elf:3    | Lost a life (1 life remaining)
+ 40015 | Elf:3    | Paralysed by an air elemental for 1 turns
+ 40124 | Elf:3    | Identified the ring "Betoigua" {rF- AC+4 Str+5 Slay+6}
+ 40273 | Elf:3    | Identified the +3 pearl dragon scales of Luof {Harm rPois
+                  | rN+ Str+3}
+ 40273 | Elf:3    | Identified the amulet of Xom's Malicious Joy {Acrobat
+                  | ^Contam Int+6}
+ 40610 | Elf:3    | Identified the +6 long sword of Tuaramma {vamp, rF- rC+
+                  | Str+4 Dex+3}
+ 40723 | Elf:3    | Identified the +1 robe "Jyajoum" {*Corrode rElec rN+ Int+3}
+ 41124 | Elf:3    | Found Etoxaf's Distillery.
+ 41129 | Elf:3    | Bought 2 potions of enlightenment for 180 gold pieces
+ 41129 | Elf:3    | Bought 2 potions of might for 144 gold pieces
+ 41129 | Elf:3    | Bought a potion of curing for 54 gold pieces
+ 41129 | Elf:3    | Bought a potion of heal wounds for 90 gold pieces
+ 41784 | Vaults:1 | Entered Level 1 of the Vaults
+ 41906 | Vaults:1 | Found Wut Rugg's Weapon Shop.
+ 42122 | Vaults:1 | Reached skill level 23 in Dodging
+ 43785 | Vaults:2 | Found a portal to a secret trove of treasure.
+ 44247 | Vaults:2 | HP: 1/156 [orc knight/+0 great mace (22)]
+ 44247 | Vaults:2 | Demolished by an orc warlord
+ 44247 | Vaults:2 | Lost a life (0 lives remaining)
+ 44341 | Vaults:2 | Reached XP level 21. HP: 124/124 MP: 22/22
+ 44723 | Vaults:2 | Identified the orb of the Cockroach {*channel, Int+6}
+ 44723 | Vaults:2 | Noticed Frederick
+ 44737 | Vaults:2 | Killed Frederick
+ 45684 | Vaults:2 | Noticed Asterion
+ 45693 | Vaults:2 | Killed Asterion
+ 45979 | Vaults:3 | Found a magical portal.
+ 45984 | WizLab   | Entered Tukima's Studio
+ 45985 | WizLab   | Upgraded the game from 0.32-a0-1317-g426ccd8811 to
+                  | 0.32-a0-1318-g632b080833
+ 46200 | WizLab   | Noticed croobank's illusion
+
+Illustrated notes
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 |
+---------------+-------------------------------------------------------------+-----
+Dodging        |        5     6     8       10 12 13 15 17 18 19 20 21 22 23 | 23.7
+Fighting       |           4     5  6        8  9 10 12 13 14 15 16 17    18 | 18.9
+Unarmed Combat |           4     5  6        8  9 10 12 13 14 15 16 17    18 | 18.9
+Shapeshifting  |                       4  8  9 10 11 12 13 15 17 18 20 21 22 | 22.6
+
+Action                     |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 || total
+---------------------------+-------+-------+-------+-------+-------+-------+-------++-------
+  Melee: Unarmed           |    92 |   139 |   326 |   520 |   817 |   979 |   961 ||  3834
+         Bite              |    11 |    11 |    41 |    38 |    19 |   108 |   145 ||   373
+         Punch             |     1 |    10 |     8 |       |    12 |   100 |    97 ||   228
+         Constrict         |       |       |       |    61 |   170 |       |       ||   231
+ Invoke: Berserk           |       |     2 |     7 |     5 |     8 |    17 |    10 ||    49
+         Brothers in Arms  |       |       |     1 |     1 |     7 |    20 |    29 ||    58
+         Trog's Hand       |       |       |       |     1 |     1 |     6 |     2 ||    10
+  Evoke: Wand              |       |       |       |    15 |    18 |     3 |     4 ||    40
+         Phantom mirror    |       |       |       |       |       |       |     1 ||     1
+    Use: Scroll            |       |     2 |    12 |    18 |    11 |    13 |     8 ||    64
+         Potion            |       |       |     3 |     4 |     4 |    15 |     6 ||    32
+   Stab: Sleeping          |     4 |     3 |     2 |     2 |     3 |     1 |     1 ||    16
+         Distracted        |       |     1 |       |       |       |     3 |       ||     4
+         Paralysed         |       |       |       |    12 |       |       |       ||    12
+         Invisible         |       |       |       |       |       |     1 |       ||     1
+         Petrified         |       |       |       |       |       |     1 |       ||     1
+ Armour: Skin              |    29 |    25 |    78 |   257 |   421 |   734 |   585 ||  2129
+  Dodge: Dodged            |    77 |   104 |   338 |   441 |   830 |  1672 |  1501 ||  4963
+  Block: Other             |       |       |    17 |    28 |       |   219 |   250 ||   514
+         Reflection        |       |       |     5 |     1 |       |    10 |    23 ||    39
+   Form: Flux              |       |       |     1 |       |       |       |       ||     1
+         Serpent           |       |       |       |     1 |       |       |       ||     1
+         Statue            |       |       |       |       |     1 |       |       ||     1
+
+Table legend: (Time is in decaauts)
+ A = Elapsed time spent in this place.
+ B = Non-inter-level travel time spent in this place.
+ C = Inter-level travel time spent in this place.
+ D = Time resting spent in this place.
+ E = Time spent auto-exploring this place.
+ F = Levels seen in this place.
+ G = Mean time per level.
+                   A        B        C        D        E      F       G
+               +--------+--------+--------+--------+--------+-----+--------+
+         Total |  57191 |  52854 |   4337 |  15116 |  26234 |  40 | 1429.8 |
+       Dungeon |  19936 |  17843 |   2093 |   5134 |   9518 |  15 | 1329.1 |
+        Temple |     10 |      5 |      5 |      0 |      0 |   1 |   10.0 |
+          Lair |   6034 |   5321 |    713 |    668 |   3190 |   5 | 1206.8 |
+        Shoals |   6610 |   6320 |    290 |    577 |   4168 |   4 | 1652.5 |
+     Snake Pit |   7350 |   6920 |    430 |   2709 |   2911 |   4 | 1837.5 |
+  Orcish Mines |   1469 |   1138 |    331 |     25 |    727 |   2 |  734.5 |
+   Elven Halls |   8518 |   8166 |    352 |   3884 |   2834 |   3 | 2839.3 |
+        Vaults |   6137 |   6017 |    120 |   1860 |   2868 |   3 | 2045.7 |
+         Abyss |    810 |    810 |      0 |     98 |      3 |   2 |  405.0 |
+        Wizlab |    311 |    311 |      0 |    157 |     12 |   1 |  311.0 |
+               +--------+--------+--------+--------+--------+-----+--------+
+
+Top non-repeatable levels by time:
+   Elf:3: 4250 daAuts
+Vaults:1: 3132 daAuts
+Vaults:2: 2952 daAuts
+     D:9: 2789 daAuts
+ Snake:3: 2585 daAuts
+ Snake:4: 2564 daAuts
+   Elf:2: 2276 daAuts
+Shoals:4: 2071 daAuts
+     D:7: 2038 daAuts
+   Elf:1: 1991 daAuts
+    D:10: 1850 daAuts
+    D:13: 1818 daAuts
+Shoals:1: 1737 daAuts
+Shoals:2: 1517 daAuts
+ Snake:1: 1486 daAuts
+
